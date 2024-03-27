@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711469963717
+current_stage: None
+description: ''
+last_updated_timestamp: 1711469963717
+name: NLP_SENTIMENTAL_ANALYSIS_PROJECT
+run_id: c05f7796f13849a789115acc2581160e
+run_link: ''
+source: file:///Users/prashantheleshala/Desktop/DESKTOP/INTERNSHIP/INNOMATICS%20/ML_PROJECT/mlruns/312492107488539227/c05f7796f13849a789115acc2581160e/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///Users/prashantheleshala/Desktop/DESKTOP/INTERNSHIP/INNOMATICS%20/ML_PROJECT/mlruns/312492107488539227/c05f7796f13849a789115acc2581160e/artifacts/best_estimator
+user_id: null
+version: 3
